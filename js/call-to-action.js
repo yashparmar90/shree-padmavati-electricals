@@ -374,6 +374,13 @@ $(document).ready(function () {
       var qpiId = $(event.currentTarget).find('div').attr('data-qpiid');
       let socoalRedirect = $(event.currentTarget).find('div').attr('data-value');
       let type = $(event.currentTarget).find('div').attr('data-action');
+
+      // Fix: If it's the specific Website button pointing to our local file
+      if (socoalRedirect === 'website.html') {
+         window.location.href = socoalRedirect;
+         return;
+      }
+
       const url = `${socoalRedirect}`;
       if (type === 'download') {
          window.open(url);
@@ -558,7 +565,7 @@ $(document).ready(function () {
             quote: 'Your message goes here!',
             href: 'https://www.example.com'
          },
-         function (response) {}
+         function (response) { }
       );
    });
 
