@@ -1,0 +1,107 @@
+<img alt="call" loading="lazy" width="-1" height="-1"
+                        decoding="async" data-nimg="1" style="color:transparent"
+                        srcSet="images/icons/call.6f157b7e.png 1x" src="images/icons/call.6f157b7e.png" />
+<img alt="whatsapp" loading="lazy" width="-1" height="-1"
+                        decoding="async" data-nimg="1" style="color:transparent"
+                        srcSet="images/icons/whatsapp.3f7773a8.png 1x" src="images/icons/whatsapp.3f7773a8.png" />
+<img alt="maps"
+                        loading="lazy" width="-1" height="-1" decoding="async" data-nimg="1" style="color:transparent"
+                        srcSet="images/icons/maps.712c9b7a.png 1x" src="images/icons/maps.712c9b7a.png" />
+<img alt="share" loading="lazy" width="-1" height="-1" decoding="async"
+                        data-nimg="1" style="color:transparent" srcSet="images/icons/share.9b9f90c5.png 1x"
+                        src="images/icons/share.9b9f90c5.png" />
+<img src="images/29871771317952876.jpg"
+                    alt="company-logo" loading="lazy" style="max-height:8rem" />
+<img alt="call" loading="lazy" width="-1" height="-1"
+                        decoding="async" data-nimg="1" style="color:transparent"
+                        srcSet="images/icons/call.6f157b7e.png 1x" src="images/icons/call.6f157b7e.png" />
+<img alt="whatsapp" loading="lazy" width="-1" height="-1"
+                        decoding="async" data-nimg="1" style="color:transparent"
+                        srcSet="images/icons/whatsapp.3f7773a8.png 1x" src="images/icons/whatsapp.3f7773a8.png" />
+<img alt="maps"
+                        loading="lazy" width="-1" height="-1" decoding="async" data-nimg="1" style="color:transparent"
+                        srcSet="images/icons/maps.712c9b7a.png 1x" src="images/icons/maps.712c9b7a.png" />
+<img alt="share" loading="lazy" width="-1" height="-1" decoding="async"
+                        data-nimg="1" style="color:transparent" srcSet="images/icons/share.9b9f90c5.png 1x"
+                        src="images/icons/share.9b9f90c5.png" />
+<img alt="Picture of the author" loading="lazy"
+                            width="100" height="100" decoding="async" data-nimg="1" style="color:transparent"
+                            src="images/29871771317952876.jpg" />
+<img alt="call" loading="lazy" width="-1" height="-1" decoding="async"
+                                data-nimg="1" style="color:transparent" src="images/icons/call.6f157b7e.png" />
+<img alt="whatsapp" loading="lazy" width="-1" height="-1"
+                                decoding="async" data-nimg="1" style="color:transparent"
+                                src="images/icons/whatsapp.3f7773a8.png" />
+<img alt="maps" loading="lazy"
+                                width="-1" height="-1" decoding="async" data-nimg="1" style="color:transparent"
+                                src="images/icons/maps.712c9b7a.png" />
+<img alt="share" loading="lazy" width="-1" height="-1" decoding="async"
+                                data-nimg="1" style="color:transparent" src="images/icons/share.9b9f90c5.png" />
+<img
+                                                    src="images/39181771321830631.jpg" class="mx-auto position-relative"
+                                                    alt="logo" />
+<img
+                                                    src="images/82051771321813972.jpg" class="mx-auto position-relative"
+                                                    alt="logo" />
+<img
+                                                    src="images/79031771321822875.jpg" class="mx-auto position-relative"
+                                                    alt="logo" />
+<img
+                                                    src="images/39181771321830631.jpg" class="mx-auto position-relative"
+                                                    alt="logo" />
+<img
+                                                    src="images/82051771321813972.jpg" class="mx-auto position-relative"
+                                                    alt="logo" />
+<img
+                                                    src="images/79031771321822875.jpg" class="mx-auto position-relative"
+                                                    alt="logo" />
+<img
+                                                    src="images/39181771321830631.jpg" class="mx-auto position-relative"
+                                                    alt="logo" />
+<img alt="product" loading="lazy" width="337" height="264"
+                                            decoding="async" data-nimg="1" style="color:transparent"
+                                            src="images/71931771319097463.jpg" />
+<img alt="product" loading="lazy" width="337" height="264"
+                                            decoding="async" data-nimg="1" style="color:transparent"
+                                            src="images/66931771319193710.jpg" />
+<img alt="product" loading="lazy" width="337" height="264"
+                                            decoding="async" data-nimg="1" style="color:transparent"
+                                            src="images/81691771319275756.jpg" />
+<img alt="Fans" loading="lazy"
+                                        width="753" height="538" decoding="async" data-nimg="1"
+                                        style="color:transparent" src="images/63891771320972694.jpg" />
+<img alt="Bladeless Fan"
+                                        loading="lazy" width="753" height="538" decoding="async" data-nimg="1"
+                                        style="color:transparent" src="images/99911771321106782.jpg" />
+<img alt="Ceiling Fan"
+                                        loading="lazy" width="753" height="538" decoding="async" data-nimg="1"
+                                        style="color:transparent" src="images/70241771321212300.jpg" />
+<img
+                                        alt="Wholesaler of all types of electrical accessories &amp; parts"
+                                        loading="lazy" width="300" height="300" decoding="async" data-nimg="1"
+                                        style="color:transparent;border-radius:9px;object-fit:contain"
+                                        src="images/47451771318746669.jpg" />
+<img alt="Quality-tested electrical materials"
+                                        loading="lazy" width="300" height="300" decoding="async" data-nimg="1"
+                                        style="color:transparent;border-radius:9px;object-fit:contain"
+                                        src="images/14371771318872940.jpg" />
+<img alt="Competitive wholesale pricing"
+                                        loading="lazy" width="300" height="300" decoding="async" data-nimg="1"
+                                        style="color:transparent;border-radius:9px;object-fit:contain"
+                                        src="images/72161771318967605.jpg" />
+<img alt="website"
+                                    loading="lazy" width="128" height="128" decoding="async" data-nimg="1"
+                                    style="color:transparent;height:auto"
+                                    src="images/icons/website.ce02e19e.png" />
+<img alt="whatsapp"
+                                    loading="lazy" width="128" height="128" decoding="async" data-nimg="1"
+                                    style="color:transparent;height:auto"
+                                    src="images/icons/whatsapp.3f7773a8.png" />
+<img alt="custom"
+                                    loading="lazy" width="128" height="128" decoding="async" data-nimg="1"
+                                    style="color:transparent;height:auto"
+                                    src="images/52991771321897513.jpg" />
+<img alt="instagram"
+                                    loading="lazy" width="128" height="128" decoding="async" data-nimg="1"
+                                    style="color:transparent;height:auto"
+                                    src="images/icons/instagram.9dbf40c2.png" />
