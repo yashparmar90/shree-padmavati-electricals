@@ -376,7 +376,7 @@ $(document).ready(function () {
       let type = $(event.currentTarget).find('div').attr('data-action');
 
       // Fix: If it's the specific Website button pointing to our local file
-      if (socoalRedirect === 'website.html') {
+      if (socoalRedirect && socoalRedirect.trim() === 'website.html') {
          window.location.href = socoalRedirect;
          return;
       }
